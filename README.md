@@ -17,9 +17,8 @@
 
 # 🚀 About Me
 
-- 🎓 High school student
 - 💻 Passionate about web development
-- ⚛️ Currently learning React & TypeScript
+- ⚛️ Currently learning React, TypeScript and CSS
 - 🎨 I enjoy creating clean UI and animations
 - 🌱 Always improving one project at a time
 
@@ -99,7 +98,7 @@ src="https://streak-stats.demolab.com?user=imJeremyyy&theme=tokyonight&hide_bord
 - React
 - TypeScript
 - Responsive Design
-- Framer Motion
+- CSS
 
 ---
 
