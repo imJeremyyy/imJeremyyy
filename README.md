@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Micdow Banner" width="100%" />
+  <img src="assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
@@ -114,6 +114,7 @@ src="https://streak-stats.demolab.com?user=imJeremyyy&theme=tokyonight&hide_bord
 # 📫 Connect
 
 - GitHub: https://github.com/imJeremyyy
+- Instagram: instagram.com/_jeremiahsie
 - Portfolio: Coming Soon
 
 ---
