@@ -114,7 +114,6 @@ src="https://streak-stats.demolab.com?user=imJeremyyy&theme=tokyonight&hide_bord
 # 📫 Connect
 
 - GitHub: https://github.com/imJeremyyy
-- Instagram: https://instagram.com/_jeremiahsie
 - Portfolio: Coming Soon
 
 ---
