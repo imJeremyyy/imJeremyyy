@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on CoreStudio <br>
-👯 I’m looking to collaborate <br>
-🤝 I’m looking for help with Python <br>
-🌱 I’m currently learning Python <br>
-⚡ Fun fact everyday I learn something new <br>
+<br>🔭 I’m currently working on CoreStudio</br>
+<br>👯 I’m looking to collaborate</br>
+<br>🤝 I’m looking for help with Python</br> 
+<br>🌱 I’m currently learning Python</br> 
+<br>⚡ Fun fact everyday I learn something new</br> 
 
 
 # 💻 Tech Stack:
