@@ -1,123 +1,28 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
-</p>
+# 💫 About Me:
+🔭 I’m currently working on CoreStudio <br>
+👯 I’m looking to collaborate <br>
+🤝 I’m looking for help with Python <br>
+🌱 I’m currently learning Python <br>
+⚡ Fun fact everyday I learn something new <br>
 
-<h1 align="center">Hi 👋, I'm Jeremy</h1>
 
-<p align="center">
-  <b>Frontend Developer</b> • Student • UI Enthusiast
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=imJeremyyy&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=imJeremyyy&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=imJeremyyy&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p align="center">
-  Building modern, responsive web experiences with React & TypeScript.
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imJeremyyy&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🚀 About Me
-
-- 💻 Passionate about web development
-- ⚛️ Currently learning React, TypeScript and CSS
-- 🎨 I enjoy creating clean UI and animations
-- 🌱 Always improving one project at a time
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=imJeremyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=imJeremyyy&icon=2&color=9)](https://visitcount.itsvg.in)
 
-# ⭐ Featured Projects
-
-## 🌐 Portfolio Website
-
-A responsive portfolio built with React, TypeScript, and CSS.
-
-🔗 Coming Soon
-
----
-
-## 🎨 UI Components
-
-Reusable modern UI components.
-
-🔗 Coming Soon
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=imJeremyyy&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=imJeremyyy&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=imJeremyyy&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- React
-- TypeScript
-- Responsive Design
-- CSS
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build high-quality websites
-- ⭐ Contribute to open source
-- 💼 Launch my portfolio
-- 📚 Learn backend development
-
----
-
-# 📫 Connect
-
-- GitHub: https://github.com/imJeremyyy
-- Portfolio: Coming Soon
-
----
-
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
