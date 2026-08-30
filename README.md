@@ -1,4 +1,4 @@
-#Jeremy#
+# Jeremy #
 
 # 💫 About Me:
 <br>🔭 I’m currently working on CoreStudio</br>
